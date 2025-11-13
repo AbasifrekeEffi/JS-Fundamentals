@@ -1,6 +1,6 @@
 const C = "C is fun";
-const Python = "Python is fun";
-const Javascript = "Javascript is fun";
+const Python = "Python is cool";
+const Javascript = "Javascript is amazing";
 console.log(C);
 console.log(Python);
 console.log(Javascript);
